@@ -5,3 +5,5 @@ How to setup vscode: Follow the video
 Some tricks to fix common vscode issues
 - delete the .vscode folder
 - make sure you selected g++ as the compiler option
+- If using a mac, don't include bits/stdc++.h
+- 
