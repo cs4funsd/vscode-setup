@@ -3,7 +3,8 @@
 - **Windows:** Follow the instructions at https://code.visualstudio.com/docs/cpp/config-mingw
 - **Mac:** Follow the instructions at https://code.visualstudio.com/docs/cpp/config-clang-mac
 
-
+- Make sure you install the correct extensions for vscode to code C++
+- Make sure you setup the path properly for windows (item 7 from the instructions above for Windows)
 ## 2. Some tricks to fix common vscode issues
 - Make sure you open a folder using vscode
 - delete the .vscode folder and the executable (.exe in windows in your current folder) if vscode fails to compile
